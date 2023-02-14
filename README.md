@@ -1,5 +1,7 @@
 # Deploy a Python (Flask) app to Azure to Azure Containers Apps
 
+modif
+
 This Python web app is a simple restaurant review application built with the [Flask](https://flask.palletsprojects.com/en/2.2.x/) framework. The web app stores application data in PostgreSQL with environment variables defining the connection info.
 
 This repo was created to be built to a Docker image and run as a container instance in [Azure Container Apps](https://azure.microsoft.com/services/container-apps/). For more information, see the tutorial [Deploy a Python web app on Azure Container Apps with GitHub Actions](https://learn.microsoft.com/azure/developer/python/tutorial-deploy-python-web-app-azure-container-apps-01).
